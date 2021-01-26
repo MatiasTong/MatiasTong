@@ -9,7 +9,7 @@ I decided to become a software engineer because I love to be creative, being abl
 * [Portfolio](https://matiastong.com/)
 * [LinkedIn](www.linkedin.com/in/matiastong)
 
-## Currently Working On
+## 🛠️ Currently Working On 
 * Data Structure and Algorithms
 * AWS Developer Certification 
 * Redux
